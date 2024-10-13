@@ -1,5 +1,5 @@
 # Welcome to the Multi-Scale Wave Dynamics Group
-Our mission is to deepen the understanding of gravity waves, Kelvin-Helmholtz Instabilities, turbulence, tides, planetary wave, and other dynamics within whole atmosphere (from surface to ionosphere). We seek to make a significant contribution not only to theoretical knowledge but also to real-world applications such as climate prediction, weather forecasting, and environmental monitoring.
+Our mission is to deepen the understanding of multi-scale dynamics throughout the entire atmosphere, from the surface to the ionosphere. These scales range from several meters to several thousand kilometers, encompassing a wide variety of phenomena such as gravity waves, Kelvin-Helmholtz instabilities, turbulence, tides, planetary waves, and other dynamic processes that shape the atmospheric system. We seek to make a significant contribution not only to theoretical knowledge but also to real-world applications such as climate prediction, weather forecasting, and environmental monitoring.
 
 ## Research Focus
 - **Gravity Wave Dynamics**: Generation, propagation, and dissipation of gravity waves, as well as their significant role in driving large-scale atmospheric processes, such as energy transport and momentum deposition.
